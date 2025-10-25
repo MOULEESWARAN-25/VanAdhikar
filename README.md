@@ -111,7 +111,7 @@
 ---
 
 ## **Live Project:**
-- [Visit FRA Atlas](https://dev-proto-1.vercel.app/)
+- [Visit VanAdhikar](https://dev-proto-1.vercel.app/)
 
 ---
 
