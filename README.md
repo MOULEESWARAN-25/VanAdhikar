@@ -117,5 +117,5 @@
 
 ## **Author**
 
-- **PS25108 Team**
+- **Mouleeswaran**
 - [GitHub Repository](https://github.com/MOULEESWARAN-25/VanAdhikar/)
