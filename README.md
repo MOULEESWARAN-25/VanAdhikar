@@ -3,6 +3,13 @@
 **VanAdhikar** is a comprehensive, AI-driven platform designed to revolutionize **Forest Rights Act (FRA)** implementation in India. It digitizes legacy claims data, provides real-time geospatial monitoring, maps community assets, and delivers personalized scheme recommendations to tribal communities, creating a **transparent and efficient rights recognition ecosystem**.
 
 ---
+## My Repository Contributions
+
+The following graph represents my contribution activity to this collaborative repository.
+
+<img width="516" height="248" alt="image" src="https://github.com/user-attachments/assets/3762988e-99be-4af6-a2d2-1650b87b355f" />
+
+---
 
 ## **Key Features**:
 
